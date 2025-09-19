@@ -1,5 +1,5 @@
 # 🚀 Hello World!  |  Halo Dunia!  |  你好世界!
-> Satu baris deskripsi singkat yang menarik — apa yang dilakukan project ini.
+###✨ I am an undergraduate student at Yogyakarta State University. A junior graphic designer and UI/UX enthusiast, I am also an aspiring programmer exploring the world of coding and development.
 
 ![demo-gif](https://media1.tenor.com/m/zlJUfpdLkrIAAAAC/neuvillette-genshin-impact.gif)
 
