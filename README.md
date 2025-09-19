@@ -1,7 +1,7 @@
 # 🚀 Hello World!  |  Halo Dunia!  |  你好世界!
 > Satu baris deskripsi singkat yang menarik — apa yang dilakukan project ini.
 
-![demo-gif]([https://tenor.com/rSpl7eMk4yY.gif](https://media1.tenor.com/m/zlJUfpdLkrIAAAAC/neuvillette-genshin-impact.gif))
+![demo-gif](https://media1.tenor.com/m/zlJUfpdLkrIAAAAC/neuvillette-genshin-impact.gif)
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/<username>/<repo>/ci.yml?branch=main)](https://github.com/<username>/<repo>/actions)
