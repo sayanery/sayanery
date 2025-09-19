@@ -1,6 +1,8 @@
 # 🚀 Hello World!  |  Halo Dunia!  |  你好世界!
 > Satu baris deskripsi singkat yang menarik — apa yang dilakukan project ini.
 
+![demo-gif]([https://raw.githubusercontent.com/<username>/<repo>/main/docs/demo.gif](https://tenor.com/rSpl7eMk4yY.gif))
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/<username>/<repo>/ci.yml?branch=main)](https://github.com/<username>/<repo>/actions)
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/<username>/<repo>/releases)
@@ -31,7 +33,7 @@
 ## 🎬 Demo
 > Tambahkan GIF atau screenshot di sini
 
-![demo-gif](https://raw.githubusercontent.com/<username>/<repo>/main/docs/demo.gif)
+
 
 Atau screenshot statis:
 
