@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🚀 Hello World!  |  Halo Dunia!  |  你好世界!
+> Satu baris deskripsi singkat yang menarik — apa yang dilakukan project ini.
 
-<!--
-**sayanery/sayanery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/<username>/<repo>/ci.yml?branch=main)](https://github.com/<username>/<repo>/actions)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/<username>/<repo>/releases)
+[![Stars](https://img.shields.io/github/stars/<username>/<repo>?style=social)](https://github.com/<username>/<repo>/stargazers)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Fitur
+- ✅ Fitur utama 1
+- ✅ Fitur utama 2
+- ⚙️ Integrasi: API / DB / Auth
+- ♻️ Dukungan: multi-platform / responsive / lokal
+
+---
+
+## 🧭 Daftar Isi
+- [Demo](#demo)
+- [Teknologi](#teknologi)
+- [Instalasi](#instalasi)
+- [Cara Pakai](#cara-pakai)
+- [Struktur Project](#struktur-project)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+- [Kontak](#kontak)
+
+---
+
+## 🎬 Demo
+> Tambahkan GIF atau screenshot di sini
+
+![demo-gif](https://raw.githubusercontent.com/<username>/<repo>/main/docs/demo.gif)
+
+Atau screenshot statis:
+
+![screenshot-1](https://raw.githubusercontent.com/<username>/<repo>/main/docs/screenshot-1.png)
+
+---
+
+## 🛠 Teknologi
+- Bahasa / Framework: `Node.js`, `Laravel`, `React`, `Python`, dsb.
+- Database: `MySQL`, `Postgres`, dsb.
+- Tools: `Docker`, `GitHub Actions`
+
+---
+
+## ⚙️ Instalasi (contoh)
+```bash
+# clone repo
+git clone https://github.com/<username>/<repo>.git
+cd <repo>
+
+# install dependency
+npm install     # atau: composer install / pip install -r requirements.txt
+
+# jalankan
+npm start       # atau: php artisan serve / python app.py
