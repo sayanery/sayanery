@@ -9,9 +9,9 @@
 <!-- About Me kiri semua -->
 <div align="left">
 
-<h1 align = "center">💫 About Me</h1>
+<h1 align = "center">  🌊 About Me</h1>
 
-<img width="350" align="right" src="https://pin.it/2FEsZLOs1.gif"/>
+<img style="width:250px; height:auto;" align="right" src="img/wotahtiga.gif"/>
 
 **Greeting:** Hi there! I'm Sayanery 👋  
 
@@ -57,7 +57,7 @@
   </a>
   
   <!-- Instagram -->
-  <a href="https://www.instagram.com/nnry.saya" target="_blank">
+  <a href="https://www.instagram.com/nrry.saya" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
   </a>
   
