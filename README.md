@@ -27,7 +27,7 @@
 
 **How to Reach Me:** Feel free to connect with me on [LinkedIn](www.linkedin.com/in/anantafeiza) or send me an [email](mailto:feizaananta@gmail.com)  
 
-**Moto:** **Motto:** Let ideas and destiny flow like water on their own 🌊  
+**Motto:** Let ideas and destiny flow like water on their own 🌊  
 
 </div>
 
@@ -70,4 +70,12 @@
   <a href="https://dribbble.com/sayanery" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/dribbble.png" alt="dribbble"/>
   </a>
+
 </div>
+
+### 📊 Recomended song from me!
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px; overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/id/album/archangel-slowed/1794499485?i=1794499802"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/id/album/no-1-party-anthem/663097964?i=663098051"></iframe>
+
+
