@@ -11,7 +11,7 @@
 
 <h1 align = "center">  🌊 About Me</h1>
 
-<img style="width:250px; height:auto;" align="right" src="img/wotahtiga.gif"/>
+<img style="width:250px; height:auto;" align="left" src="img/wotahtiga.gif"/>
 
 **Greeting:** Hi there! I'm Sayanery 👋  
 
