@@ -70,6 +70,8 @@
   <a href="https://dribbble.com/sayanery" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/color/48/dribbble.png" alt="dribbble"/>
   </a>
+  
+![](https://komarev.com/ghpvc/?username=sayanery&style=for-the-badge&color=blue)
 
 </div>
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
